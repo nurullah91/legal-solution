@@ -19,3 +19,8 @@
     margin-top: 20px;
     border: none;
 }
+
+.footer-button{
+    margin-left: -10px;
+    border-radius: 5px;
+}
