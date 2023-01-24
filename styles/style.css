@@ -24,3 +24,10 @@
     margin-left: -10px;
     border-radius: 5px;
 }
+.choose-div{
+    transition: .8s;
+}
+.choose-div:hover{
+    transform: scale(1.2);
+    background: #f5da1bb8;
+}
