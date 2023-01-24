@@ -1,6 +1,9 @@
 .myBtn{
     background: #B68C5A;
 }
+.myBtn:hover{
+    color: black !important;
+}
 .head-background{
     background: url(../images/banner.png);
     background-size: cover;
